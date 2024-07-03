@@ -1,0 +1,11 @@
+
+{% block sw_extension_card_base_info_head %}
+    {% parent %}
+
+    <sw-button variant="ghost" class="slox-download-button" size="x-small" 
+    @click="requestDownload" @keydown.enter="requestDownload" 
+    :is-loading="isDownloadLoading" >
+        <sw-icon class="slox-dowwnload-button-icon" name="regular-cloud-download" />
+        Download
+    </sw-button>
+{% endblock %}
