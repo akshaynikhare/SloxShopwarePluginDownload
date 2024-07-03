@@ -2,7 +2,7 @@
 
 SloxShopwarePluginDownload is a Shopware 6 plugin . The plugin allows you to easily download installed plugins in your Shopware 6 instance.
 
-<img src="./_preview/Sr5mZS4r8Q.png" width="500">
+<img src="./_preview/Sr5mZS4r8Q.png" >
 
 
 ## Installation
