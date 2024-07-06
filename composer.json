@@ -2,10 +2,10 @@
     "name": "slox-dwn/slox-dwn",
     "description": "Download Installed plugin in Shopware 6",
     "type": "shopware-platform-plugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "proprietary",
     "require": {
-        "shopware/core": "6.6.*"
+        "shopware/core": "6.6.4.*"
     },
     "extra": {
         "shopware-plugin-class": "SloxDwn\\SloxDwn",
