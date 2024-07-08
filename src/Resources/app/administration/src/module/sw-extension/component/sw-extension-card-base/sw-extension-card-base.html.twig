@@ -9,8 +9,8 @@
             <sw-button variant="ghost" class="slox-download-button" size="x-small" 
                 @click="requestDownload" @keydown.enter="requestDownload" 
                 :is-loading="isDownloadLoading" >
-                    <sw-icon class="slox-dowwnload-button-icon" name="regular-cloud-download" />
-                    Download
+                    <sw-icon class="slox-download-button-icon" name="regular-cloud-download" />
+                     {{ $tc('SloxDwn.downloadLabel') }}
             </sw-button>
         </span>
         <!-- eslint-disable-next-line sw-deprecation-rules/no-twigjs-blocks -->

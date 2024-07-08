@@ -1,6 +1,10 @@
 import template from './sw-extension-card-base.html.twig';
 import './sw-extension-card-base.scss';
 
+import deDE from './snippet/de-DE';
+import enGB from './snippet/en-GB';
+
+
 const { Component, Context, Mixin } = Shopware;
 const { Criteria } = Shopware.Data;
 
@@ -42,5 +46,10 @@ Shopware.Component.override('sw-extension-card-base', {
                 this.isDownloadLoading = false;
             }
         },
+    },
+    
+    snippets: {
+        'de-DE': deDE,
+        'en-GB': enGB,
     }
 });
