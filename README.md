@@ -46,3 +46,8 @@ We appreciate any contributions to the project!
 ## License
 
 The SloxShopwarePluginDownload plugin is open source software licensed under the [MIT License](LICENSE).
+
+## Support 
+ 
+- For additional support, please email us at [info@cadnative.com](mailto:info@cadnative.com).
+- or send us a contact requst at our website [cadnative.com](https://cadnative.com/contact/)
