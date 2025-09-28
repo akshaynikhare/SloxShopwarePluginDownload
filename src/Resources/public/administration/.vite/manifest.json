@@ -1,0 +1,11 @@
+{
+  "main.js": {
+    "file": "assets/slox-shopware-plugin-download-teKh8Cue.js",
+    "name": "slox-shopware-plugin-download",
+    "src": "main.js",
+    "isEntry": true,
+    "css": [
+      "assets/slox-shopware-plugin-download-DeMgzRMw.css"
+    ]
+  }
+}

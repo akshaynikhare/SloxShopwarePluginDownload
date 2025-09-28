@@ -1,0 +1,25 @@
+{
+  "base": "/bundles/sloxshopwareplugindownload/administration/",
+  "entryPoints": {
+    "slox-shopware-plugin-download": {
+      "css": [
+        "/bundles/sloxshopwareplugindownload/administration/assets/slox-shopware-plugin-download-DeMgzRMw.css"
+      ],
+      "dynamic": [],
+      "js": [
+        "/bundles/sloxshopwareplugindownload/administration/assets/slox-shopware-plugin-download-teKh8Cue.js"
+      ],
+      "legacy": false,
+      "preload": []
+    }
+  },
+  "legacy": false,
+  "metadatas": {},
+  "version": [
+    "7.1.0",
+    7,
+    1,
+    0
+  ],
+  "viteServer": null
+}
